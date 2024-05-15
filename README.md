@@ -7,8 +7,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
-![UrsoPleno GitHub stats](https://github-readme-stats.vercel.app/api?username=UrsoPleno&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrsoPleno&hide_progress=true)
+![PauloRSantana GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRSantana&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRSantana&hide_progress=true)
 
 ### Tecnologias que eu uso no meu dia
 
