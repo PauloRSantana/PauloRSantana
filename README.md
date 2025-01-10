@@ -22,4 +22,4 @@
 </div>
 <br/>
 
-Estudante de Analise e Desenvolvimento de Sistemas, apaixonado por tecnologia e em busca do seu espaço no mundo. 🌍
+Graduando de Análise e Devolvimento de Sistemas, grande admirador das tecnologias do mundo e estagiário de SGBD. 🌍
